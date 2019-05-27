@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Drawing.h" />
+    <ClInclude Include="GameController.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Drawing.cpp" />
